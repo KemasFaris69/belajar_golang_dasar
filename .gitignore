@@ -1,0 +1,25 @@
+# Binary hasil build
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Output folder build
+/bin/
+/build/
+
+# Cache Go
+/vendor/
+/pkg/
+**/*.out
+
+# File editor/IDE
+.idea/
+.vscode/
+*.swp
+
+# Sistem
+.DS_Store
+Thumbs.db
